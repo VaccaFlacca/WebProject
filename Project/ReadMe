@@ -2,3 +2,8 @@ So I had some trouble uploading to here... I uploaded my whole folder from this 
 i had to delete those other folders and it had some of my project documents like story board and test results.
 For the game to test the scoreboard if it works for you you can press shift+up_arrow when at the screen with the sprites moving arround input
 scores (if logged in) and it should upload to the database.
+
+Postmordem- not getting variables in javascript didnt allowe me to do things i would like because variables are very important (main problem
+I could not make public varibales to be seen in a whole file, so that allowed me to not set up score going to the data base.
+besides that and a more flushed out game i got everything in the project that I wanted. I was the only person to work on it so i did all the
+work- plus google my best friend!!
